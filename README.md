@@ -2,10 +2,10 @@
 
 # 🏥 Mediroza General Hospital — Penetration Test Report
 
+**![Skill](https://img.shields.io/badge/Cybersecurity-red?logo=hackthebox&logocolor=white)**
 **![Type](https://img.shields.io/badge/Type-Black--Box_Pentest-c0392b)**
 **![Pentest](https://img.shields.io/badge/Penetration_Testing-red?logo=kalilinux&logoColor=black)**
 **![Overall Risk](https://img.shields.io/badge/Overall_Risk-CRITICAL-e74c3c)**
-**![Skill](https://img.shields.io/badge/Cybersecurity-red?logo=hackthebox&logocolor=white)**
 **![Kali](https://img.shields.io/badge/Kali_Linux_v2026.2-7C3AED?logo=kalilinux&logoColor=white)**
 **![Tool](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)**
 **![NetworkWalks](https://img.shields.io/badge/NetworkWalks-b22222)**

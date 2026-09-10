@@ -2,17 +2,15 @@
 
 # 🏥 Mediroza General Hospital — Penetration Test Report
 
-![Type](https://img.shields.io/badge/Type-Black--Box_Pentest-c0392b)
-![Status](https://img.shields.io/badge/Status-Completed-2ecc71)
-![Overall Risk](https://img.shields.io/badge/Overall_Risk-CRITICAL-e74c3c)
-![Skill](https://img.shields.io/badge/Skill-Cybersecurity-c0392b)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-v2026.1-8e44ad)
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-Skill-4a4a4a)
-
-![GitHub](https://img.shields.io/badge/GitHub-Official--Samuel--Ntuen-181717?logo=github&logoColor=white)
-![NetworkWalks](https://img.shields.io/badge/NetworkWalks-e67e22)
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-27ae60)
-![Samuel M. Ntuen](https://img.shields.io/badge/Samuel_M._Ntuen-c0392b)
+**![Type](https://img.shields.io/badge/Type-Black--Box_Pentest-c0392b)**
+**![Pentest](https://img.shields.io/badge/Penetration_Testing-red?logo=kalilinux&logoColor=black)**
+**![Overall Risk](https://img.shields.io/badge/Overall_Risk-CRITICAL-e74c3c)**
+**![Skill](https://img.shields.io/badge/Cybersecurity-red?logo=hackthebox&logocolor=white)**
+**![Kali](https://img.shields.io/badge/Kali_Linux_v2026.2-7C3AED?logo=kalilinux&logoColor=white)**
+**![Tool](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)**
+**![NetworkWalks](https://img.shields.io/badge/NetworkWalks-b22222)**
+**![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-27ae60)**
+**![Chosen Mfonabasi](https://img.shields.io/badge/Chosen_Mfonabasi-red?logo=github&logocolor=white)**
 
 </div>
 

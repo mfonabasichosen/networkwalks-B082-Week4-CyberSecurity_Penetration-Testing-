@@ -315,4 +315,4 @@ This penetration test was conducted with full written authorisation from Mediroz
 
 Cybersecurity Intern — Batch: **B082-NetworkWalks**
 
-LinkedIn: *https://www.linkedin.com/in/samuelntuen/*
+LinkedIn: *https://www.linkedin.com/in/chosen-mfonabasi*

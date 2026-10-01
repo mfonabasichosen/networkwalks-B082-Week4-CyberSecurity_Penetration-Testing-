@@ -14,11 +14,11 @@
 
 </div>
 
-**Prepared by:** Chosen Mfonabasi
-**Organisation:** Networkwalks Internship Programme
-**Target:** https://medirozahospital.com
-**Date:** September 2026
-**Classification:** Confidential — Authorised Personnel Only
+Prepared by: Chosen Mfonabasi  
+Organisation: Networkwalks Internship Programme  
+Target: https://medirozahospital.com  
+Date: September 2026  
+Classification: Confidential — Authorised Personnel Only
 
 ---
 
